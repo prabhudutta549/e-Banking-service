@@ -22,12 +22,12 @@ Project Details:
    - Validates inputs, checks account balances, and updates balances accordingly.
 
 4. File Structure:
-   - main.py: Contains the main program logic.
+   - banking.py: Contains the main program logic.
    - readme.txt: This file (or any other format) that contains the project synopsis and details.
 
 5. How to Run:
    - Ensure Python is installed on your system.
-   - Execute the main.py file in a Python environment.
+   - Execute the banking.py file in a Python environment.
    - Follow the menu options to create user accounts, switch between accounts, perform operations, calculate interest, and transfer funds.
 
 6. Note:
